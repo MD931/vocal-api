@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "properties": {
+    "record": {
+      "type": "string"
+     }
+    },
+  "required": ["record"]
+}
