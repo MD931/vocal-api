@@ -1,10 +1,10 @@
 # vocal-api
 
 ## Requirements
-**Python** 2.7 or higher
+**Python 2.7**
 
 ## Install dependencies
-**$** python -m pip install -r requirements.txt
+**$** python2.7 -m pip install -r requirements.txt
 
 ## Run
-python server.py
+python2.7 server.py
